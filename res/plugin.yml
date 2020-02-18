@@ -1,0 +1,5 @@
+name: TrafficLogger
+version: 1.0
+main: skywolf46.TrafficLogger.TrafficLogger
+softdepend:
+  - ProtocolLib
